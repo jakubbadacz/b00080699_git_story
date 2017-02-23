@@ -2,3 +2,5 @@
 This is a assignment for a Web Framework Development module.
 
 It will contain a story with three chapters.
+
+23/02/2017 Added more text to Chapter 1
