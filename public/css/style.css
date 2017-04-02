@@ -1,0 +1,33 @@
+nav{
+    width: 100%
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    float: left;
+    width: 23%;
+    margin: 2px;
+}
+
+li a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: black;
+}
+
+a:visited{
+    color: white;
+}
+a:hover{
+    color: black;
+    background-color: white;
+}
+
+.current{
+    background-color: gray;
+}
