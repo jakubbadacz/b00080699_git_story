@@ -8,7 +8,7 @@ ul{
 
 li{
     float: left;
-    width: 32%;
+    width: 23%;
     margin: 2px;
 }
 
@@ -24,7 +24,7 @@ h1{
     text-decoration: underline;
 }
 
-a:visited{
+a:visited, a:link{
     color: white;
 }
 a:hover{
