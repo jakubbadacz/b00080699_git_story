@@ -8,3 +8,5 @@ It will contain a story with three chapters.
 12/03/2017 Added more text to Chapter 1 and added Chapter 2
 
 26/03/2017 Added Chapter 3
+
+02/04/2017 Alternative ending added
